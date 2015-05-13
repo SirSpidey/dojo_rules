@@ -56,7 +56,7 @@ Before you can work with a service in Bluemix, you must obtain your Bluemix cred
 Download the tutorial code and configure it. Install the node.js client.
 
 1. Set up your environment:
-	1. Download the `.zip` file that contains the source code from this project. If you are familiar with Git, fork the repository into your Git namespace or clone it to your local system.
+	1. Download the [.zip](archive/master.zip) file that contains the source code from this project. If you are familiar with Git, fork the repository into your Git namespace or clone it to your local system.
 	2. Extract the package to a new directory.
 
 2. Change to the new directory that contains this tutorial, for example:
